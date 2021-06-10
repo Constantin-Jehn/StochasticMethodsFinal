@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: project_report.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: abbrv.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Warning--empty booktitle in inproceedings
+Warning--empty year in xin2016a
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            636 strings with 7375 characters,
+and the built_in function-call counts, 6378 in all, are:
+= -- 608
+> -- 286
+< -- 3
++ -- 119
+- -- 94
+* -- 418
+:= -- 1088
+add.period$ -- 68
+call.type$ -- 21
+change.case$ -- 105
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 243
+empty$ -- 526
+format.name$ -- 94
+if$ -- 1335
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 24
+newline$ -- 111
+num.names$ -- 42
+pop$ -- 125
+preamble$ -- 1
+purify$ -- 89
+quote$ -- 0
+skip$ -- 164
+stack$ -- 0
+substring$ -- 343
+swap$ -- 37
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 2
+while$ -- 57
+width$ -- 23
+write$ -- 233
+(There were 2 warnings)

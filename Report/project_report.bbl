@@ -1,0 +1,131 @@
+\begin{thebibliography}{10}
+
+\bibitem{Acir}
+N.~Acır.
+\newblock A support vector machine classifier algorithm based on a perturbation
+  method and its application to ecg beat recognition systems.
+\newblock {\em Expert Systems with Applications}, 31:150--158, 07 2006.
+
+\bibitem{Alickovic2016MedicalDS}
+E.~Alickovic and A.~Subasi.
+\newblock Medical decision support system for diagnosis of heart arrhythmia
+  using dwt and random forests classifier.
+\newblock {\em Journal of Medical Systems}, 40:1--12, 2016.
+
+\bibitem{Bajric2015}
+R.~Bajric, N.~Zuber, G.~A. Skrimpas, and N.~Mijatovic.
+\newblock Feature extraction using discrete wavelet transform for gear fault
+  diagnosis of wind turbine gearbox.
+\newblock {\em Shock and Vibration}, 2016:6748469, Dec 2015.
+
+\bibitem{Breiman2001}
+L.~Breiman.
+\newblock Random forests.
+\newblock {\em Machine Learning}, 45(1):5--32, Oct 2001.
+
+\bibitem{burkov2019hundred}
+A.~Burkov.
+\newblock {\em The Hundred-Page Machine Learning Book}.
+\newblock Andriy Burkov, 2019.
+
+\bibitem{chaudhary2020understanding}
+K.~Chaudhary.
+\newblock Understanding audio data, fourier transform, fft and spectrogram
+  features for a speech recognition system.
+\newblock
+  \url{https://towardsdatascience.com/understanding-audio-data-fourier-transform-fft-spectrogram-and-speech-recognition-a4072d228520/},
+  2020.
+
+\bibitem{cochran1967fast}
+W.~T. Cochran, J.~W. Cooley, D.~L. Favin, H.~D. Helms, R.~A. Kaenel, W.~W.
+  Lang, G.~C. Maling, D.~E. Nelson, C.~M. Rader, and P.~D. Welch.
+\newblock What is the fast fourier transform?
+\newblock {\em Proceedings of the IEEE}, 55(10):1664--1674, 1967.
+
+\bibitem{Goodfellow-et-al-2016}
+I.~Goodfellow, Y.~Bengio, and A.~Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem{lantz2013machine}
+B.~Lantz.
+\newblock {\em Machine Learning with R: Learn how to Use R to Apply Powerful
+  Machine Learning Methods and Gain an Insight Into Real-world Applications}.
+\newblock Community experience distilled. Packt Publishing, 2013.
+
+\bibitem{maklinFFT}
+C.~Maklin.
+\newblock Fast fourier transform.
+\newblock
+  \url{https://towardsdatascience.com/fast-fourier-transform-937926e591cb/},
+  January 2019.
+
+\bibitem{alma990003451080306161}
+V.~V. Naoumovitch.
+\newblock {\em The nature of statistical learning theory / Vladimir N. Vapnik}.
+\newblock Statistics for engineering and information science. Springer, New
+  York, 2nd edition edition, cop. 2000.
+
+\bibitem{dataset}
+Y.~Pandya.
+\newblock Gearbox fault diagnosis data - openei datasets.
+\newblock
+  \url{http://openei.org/datasets/dataset/gearbox-fault-diagnosis-data/}, June
+  2018.
+
+\bibitem{PATEL2016334}
+R.~K. Patel and V.~Giri.
+\newblock Feature selection and classification of mechanical fault of an
+  induction motor using random forest classifier.
+\newblock {\em Perspectives in Science}, 8:334--337, 2016.
+\newblock Recent Trends in Engineering and Material Sciences.
+
+\bibitem{article}
+T.~Praveenkumar, S.~Muthusamy, P.~Krishnakumar, and R.~K~I.
+\newblock Fault diagnosis of automobile gearbox based on machine learning
+  techniques.
+\newblock {\em Procedia Engineering}, 97, 12 2014.
+
+\bibitem{DSPA}
+B.~R.
+\newblock {\em DSPA}.
+\newblock Calic J, 2010.
+
+\bibitem{FFTTop10}
+D.~Rockmore.
+\newblock The fft: An algorithm the whole family can use.
+\newblock {\em Computing in Science and Engineering}, 2:60 -- 64, 02 2000.
+
+\bibitem{inproceedings}
+S.~Sahoo, R.~Laskar, J.~Das, and S.~Laskar.
+\newblock Gear fault diagnosis and classification using machine learning
+  classifier.
+\newblock pages 69--72, 03 2019.
+
+\bibitem{10.2307/29775194}
+G.~Strang.
+\newblock Wavelets.
+\newblock {\em American Scientist}, 82(3):250--255, 1994.
+
+\bibitem{ref1}
+X.~Tian, J.~Lin, K.~Fyfe, and M.~Zuo.
+\newblock Gearbox fault diagnosis using independent component analysis in the
+  frequency domain and wavelet filtering.
+\newblock In {\em 2003 IEEE International Conference on Acoustics, Speech, and
+  Signal Processing, 2003. Proceedings. (ICASSP '03).}, volume~2, pages
+  II--245, 2003.
+
+\bibitem{xin2016a}
+e.~a. Xin, Zhang.
+\newblock Rolling bearing fault diagnosis using modified k-means cluster
+  analysis.
+\newblock {\em Vibroengineering PROCEDIA}, 10:155–160.
+
+\bibitem{yannakakis2018artificial}
+G.~N. Yannakakis and J.~Togelius.
+\newblock {\em {Artificial Intelligence and Games}}.
+\newblock Springer, 2018.
+\newblock \url{http://gameaibook.org}.
+
+\end{thebibliography}
