@@ -52,7 +52,7 @@
 \ProcessOptions \relax
 \typeout{*** Please report bugs, comments, suggestions, and improvements
   to: }
-\typeout{*** Edoardo Vechi <edoardo.vecchi@usi.ch>}
+\typeout{*** Edoardo Vecchi <edoardo.vecchi@usi.ch>}
 %%% package loading
 \LoadClass[a4paper,10pt,twoside,onecolumn,final,titlepage,top=0.2]{article}
 %%% main code
@@ -125,7 +125,7 @@
 }
 
 \newcounter{student1}
-\newcommand*{\studentA}[4][Universit\`a della Svizzera Italiana, Switzerland]{%
+\newcommand*{\studentA}[4][Universit\`a della Svizzera italiana, Switzerland]{%
 \DTLnewrow{groupmembers}
 \ifthenelse{\isempty{#2}}{\DTLnewdbentry{groupmembers}{title}{!blank!}}{%
 \DTLnewdbentry{groupmembers}{title}{#2}}
